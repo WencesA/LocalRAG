@@ -1,4 +1,4 @@
-# DeepSeek RAG Application
+# Local LLM RAG Application
 
 A Python-based RAG (Retrieval-Augmented Generation) application that allows you to upload directories of documents and query them using local LLM models through Ollama.
 
@@ -47,7 +47,7 @@ conda activate DST
 1. **Clone/Download the repository**
 ```bash
 git clone <repository-url>
-cd DeepSeeKRAG
+cd LLMRAG
 ```
 
 2. **Install Python dependencies**
